@@ -1,3 +1,3 @@
-[ ] Terminer un truc
-[ ] Commencer un autre truc
-[ ] Vérifier autre chose
+- [ ] Terminer un truc
+- [ ] Commencer un autre truc
+- [ ] Vérifier autre chose
